@@ -1,4 +1,4 @@
-# Oltre-il-Bianco
+![image](https://github.com/federicabonifazi/Oltre-il-Bianco/assets/92318256/eddc49b0-08a8-4038-bcc0-1e15b8412e33)# Oltre-il-Bianco
 Final Project for the "Laboratorio di Realtà Aumentata e Virtuale" within the DHDK Master's Degree at University of Bologna
 
 ## Table of content 
@@ -30,8 +30,10 @@ La Realtà Virtuale permetterà di visualizzare le analisi, le tracce e le varie
 
 
 <p align="center">
-<img src="img/storyboard.jpg">
+<img src="img/storyboard.png">
 </p>
+
+Rispetto alla proposta di progetto è stato eliminato il primo step dell’esperienza, ovvero la scelta della statua da studiare, tra quelle proposte, in quanto si è preferito evitare di creare confusione nell’utente e di farlo concentrare su un singolo soggetto alla volta, evitando inoltre di creare un terzo ancora differente ambiente che potesse complicare la struttura del progetto.
 
 ## 3. Architettura <a name="softarchi"></a>
 Il progetto è stato testato sfruttando XR Device Simulator, e si basa sul pacchetto di Unity XR Toolkit. 
@@ -42,7 +44,7 @@ Non appena avviato il gioco si apre con un XR Canva che lo accoglie e gli indica
 Terminate le analisi all’interno della stanza, si rende visibile un’altra zona di teletrasporto di fronte a una porta, che una volta aperta trasporta l’utente nella ricostruzione del tempio dove era un tempo collecta la statua esaminata. Oltre a vederla contestualizzata, la statua può poi essere ricolorata attivando la funzione ChangeMaterial.cs che sostituisce la texture attuale con la versione ricolorata, plausibile ipotesi dell’originale.
 
 <p align="center">
-<img src="img/game.jpg">
+<img src="img/game.png">
 </p>
 
 ## 4. Difficoltà tecniche <a name="criticalities"></a>
