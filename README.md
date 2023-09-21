@@ -3,14 +3,14 @@ Final Project for the "Laboratorio di Realtà Aumentata e Virtuale" within the D
 
 ## Table of content 
 - [**Introduzione**](#intro)
-- [**Design e Scelte tecniche**](#usecase)
+- [**Design e Scelte tecniche**](#design)
 - [**Architettura**](#softarchi)
 - [**Difficoltà tecniche**](#criticalities)
 
 ## 1. Introduzione <a name="intro"></a>
 <b>Oltre il bianco</b> è un progetto di Realtà Virtuale pensato per essere giocato sia da remoto sia all’interno di una sala del museo appositamente attrezzata. L’obiettivo è aiutare i visitatori dei musei, gli appassionati d’arte e finanche un pubblico più esperto a riscoprire la policromia della statuaria classica. Le tracce di colore rimaste sulle statue sono spesso invisibili all’occhio nudo, e necessitano dell'ausilio di microscopio o analisi diagnostiche che coinvolgono filtri (UV e IR) e condizioni di luce particolari che non sarebbe possibile ricreare per i visitatori.
 
-## 2. Design and Use Case <a name="usecase"></a>
+## 2. Design e Scelte tecniche <a name="design"></a>
 <b>2.1 Stato dell’arte</b>
 <ul>
   <li>I colori dell’Ara Pacis (2014): per la ricostruzione della policromia nell’architettura classica Efficace, ma manca di contestualizzazione e non mostra come si arriva alla ricostruzione.</li> 
