@@ -2,20 +2,20 @@
 Final Project for the "Laboratorio di Realtà Aumentata e Virtuale" within the DHDK Master's Degree at University of Bologna
 
 ## Table of content 
-- [**Introduction**](#introduction)
+- [**Introduzione**](#intro)
 - [**Design e Scelte tecniche**](#usecase)
 - [**Architettura**](#softarchi)
 - [**Difficoltà tecniche**](#criticalities)
 
-## 1. Introduction <a name="introduction"></a>
+## 1. Introduzione <a name="intro"></a>
 <b>Oltre il bianco</b> è un progetto di Realtà Virtuale pensato per essere giocato sia da remoto sia all’interno di una sala del museo appositamente attrezzata. L’obiettivo è aiutare i visitatori dei musei, gli appassionati d’arte e finanche un pubblico più esperto a riscoprire la policromia della statuaria classica. Le tracce di colore rimaste sulle statue sono spesso invisibili all’occhio nudo, e necessitano dell'ausilio di microscopio o analisi diagnostiche che coinvolgono filtri (UV e IR) e condizioni di luce particolari che non sarebbe possibile ricreare per i visitatori.
 
 ## 2. Design and Use Case <a name="usecase"></a>
 <b>2.1 Stato dell’arte</b>
 <ul>
   <li>I colori dell’Ara Pacis (2014): per la ricostruzione della policromia nell’architettura classica Efficace, ma manca di contestualizzazione e non mostra come si arriva alla ricostruzione.</li> 
-<li>The Muses Liebieghaus (2020): AR per la ricostruzione della policromia nella scultura classica. Non mostra le analisi, ma le diverse possibili ricostruzioni dalla meno alla più creativa.</li>
-<li>Brancacci POV (2022): Esperienza VR ambientata all’interno della Cappella Brancacci (Firenze). L’utente può osservare da vicino gli affreschi della cappella e indagare lo strato sottostante (sfruttando sovrapposizione di un livello a raggi X e luce UV) per riconoscere incisioni e disegni preparatori. Si tratta dell’esempio più simile a quello progettato qui, tuttavia è pensato in unione ad una visita guidata (con ausilio di tablet) e per il momento la sola esperienza VR manca di indicazioni e spiegazioni su cosa sia mostrato nei layer analisi o su quali siano i dettagli su cui concentrarsi. </li>
+  <li>The Muses Liebieghaus (2020): AR per la ricostruzione della policromia nella scultura classica. Non mostra le analisi, ma le diverse possibili ricostruzioni dalla meno alla più creativa.</li>
+  <li>Brancacci POV (2022): Esperienza VR ambientata all’interno della Cappella Brancacci (Firenze). L’utente può osservare da vicino gli affreschi della cappella e indagare lo strato sottostante (sfruttando sovrapposizione di un livello a raggi X e luce UV) per riconoscere incisioni e disegni preparatori. Si tratta dell’esempio più simile a quello progettato qui, tuttavia è pensato in unione ad una visita guidata (con ausilio di tablet) e per il momento la sola esperienza VR manca di indicazioni e spiegazioni su cosa sia mostrato nei layer analisi o su quali siano i dettagli su cui concentrarsi. </li>
 </ul>
 <b>2.2 Studio degli Use Case</b>
 Il progetto è stato pensato a seguito di analisi mirate su gruppi di pubblico dei musei, riguardo ciò che questi si aspettano di vedere o gli aspetti da cui sono maggiormente  incuriositi riguardo specificatamente il tema della policromia della scultura classica. 
