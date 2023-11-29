@@ -34,9 +34,7 @@ Non appena avviato il gioco si apre con un XR Canva che lo accoglie e gli indica
 Terminate le analisi all’interno della stanza, si rende visibile un’altra zona di teletrasporto di fronte a una porta, che una volta aperta trasporta l’utente nella ricostruzione del tempio dove era un tempo collecta la statua esaminata. Oltre a vederla contestualizzata, la statua può poi essere ricolorata attivando la funzione ChangeMaterial.cs che sostituisce la texture attuale con la versione ricolorata, plausibile ipotesi dell’originale.
 
 <p align="center">
-<img src="img/game.png">
+<img src="Screenshot 2023-10-14 154232.png">
+<img src="Screenshot 2023-09-12 101657.png">
 </p>
-
-## 4. Difficoltà tecniche <a name="criticalities"></a>
-L’attivazione e la scomparsa delle UI e degli oggetti potrebbe essere più morbida, e si potrebbe introdurre un effetto fading. Questo progetto è stato attualmente testato solamente usando il simulatore, ma sarebbe necessario testare con un’adeguata strumentazione VR e visore, così da migliorare la visione delle varie canvas presenti nel gioco. 
 
